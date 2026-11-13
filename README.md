@@ -18,11 +18,11 @@ Three JSON files, converted to CSV in the notebook:
 
 | File | Contents | Key columns |
 |------|----------|-------------|
-| `t20_wc_match_results` | One row per match (45 matches) | `team1`, `team2`, `winner`, `margin`, `ground`, `matchDate`, `match_id` |
+| `t20_wc_match_results` | One row per match (45 matches) | `team1`, `team2`, `winner`, `margin`, `ground`, `matchDate`, `match_ronid` |
 | `t20_wc_batting_summary` | One row per batsman innings | `match`, `teamInnings`, `battingPos`, `batsmanName`, `runs`, `balls`, `4s`, `6s`, `SR`, `out/not out`, `match_id` |
 | `t20_wc_bowling_summary` | One row per bowling spell (500 rows) | `match`, `bowlingTeam`, `bowlerName`, `overs`, `maiden`, `runs`, `wickets`, `economy`, `0s`, `4s`, `6s`, `wides`, `noBalls`, `match_id` |
 
-**Source:** *(add where the JSON files came from, e.g. ESPNcricinfo / Kaggle link, and check its licence or terms of use)*
+**Source:** *(scrapped data from cricbuzz website)*
 
 ## Data preparation
 
