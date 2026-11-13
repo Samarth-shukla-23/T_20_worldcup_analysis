@@ -70,15 +70,6 @@ Aayan Afzal Khan (4.61), Jason Holder (4.67), Zahoor Khan (4.75), Colin Ackerman
 
 **Leading wicket-takers:** Wanindu Hasaranga (15), Bas de Leede (13), Sam Curran (13),
 Blessing Muzarabani (12).
-
-## Visualizations
-
-*(Save your plots with `plt.savefig("images/<name>.png", dpi=150, bbox_inches="tight")` and embed them here.)*
-
-![Power hitters vs. other batsmen](images/powerhitters_comparison.png)
-![Anchor batsmen vs. other batsmen](images/anchor_comparison.png)
-![Economical bowlers](images/economical_bowlers.png)
-
 ## Tech stack
 
 Python · pandas · NumPy · Matplotlib · Jupyter Notebook
